@@ -39,6 +39,6 @@ A **Software Engineering Student** 🚀 from Depok, Indonesia.
 
 <img src="https://github-readme-stats.vercel.app/api?username=robilaruku&show_icons=true&hide_border=false&count_private=true&theme=shades-of-purple&icon_color=fad000" align="left">
 
-[![Robi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robilaruku&layout=compact&theme=shades-of-purple&align=right&height=500px)](https://github.com/robilaruku/)
+[![Robi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robilaruku&layout=compact&theme=shades-of-purple)](https://github.com/robilaruku/)
 
 
