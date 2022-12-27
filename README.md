@@ -37,7 +37,9 @@ A **Software Engineering Student** 🚀 from Depok, Indonesia.
 
 [![Robi GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robilaruku&theme=shades-of-purple&align=left&width=100%)](https://github.com/robilaruku/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=robilaruku&show_icons=true&hide_border=false&count_private=true&theme=shades-of-purple&icon_color=fad000" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=robilaruku&show_icons=true&hide_border=false&count_private=true&theme=shades-of-purple&icon_color=fad000">
+
+
 
 [![Robi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robilaruku&layout=compact&theme=shades-of-purple)](https://github.com/robilaruku/)
 
