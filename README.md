@@ -35,12 +35,21 @@ A **Software Engineering Student** 🚀 from Depok, Indonesia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-[![Robi GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robilaruku&theme=shades-of-purple&align=left&width=100%)](https://github.com/robilaruku/)
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=robilaruku&show_icons=true&hide_border=false&count_private=true&theme=shades-of-purple&icon_color=fad000">
-
-
-
-[![Robi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robilaruku&layout=compact&theme=shades-of-purple)](https://github.com/robilaruku/)
-
-
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="left">
+    <img alt="Robi Laruku Github Stats" src="https://github-readme-stats.vercel.app/api?username=robilaruku&show_icons=true&count_private=true&theme=shades-of-purple" height="192px"/>
+<br/>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robilaruku&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="robilaruku" height="192px"/>
+<br/>
+<br />
+  &nbsp;
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=robilaruku&theme=shades-of-purple" alt="robilaruku" height="192px"/>
+  <br/>
+  </p>
+</details>
