@@ -3,14 +3,13 @@
 <br />
 <br />
 
-A **Software Engineering Student** 🚀 from Depok, Indonesia.
+A **Software Engineering Student** 🚀.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif"/>
 
 ## ✨ About Me
 
 - 😎 My name is Robi  
-- 🏡 Live in Depok Indonesia
 - 🇮🇩 Indonesia Nationality
 - 👩‍💻 Currently learning ReactJS, VueJS, Go in depth
 - 👀 In looking for a job
